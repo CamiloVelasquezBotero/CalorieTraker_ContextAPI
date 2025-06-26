@@ -13,4 +13,4 @@ Este programa Calcula las calorias consumidas y quemadas, ya sea agregando algun
   - Se crea hooks personalizados para manejar algunos componentes y tener un mejor orden de codigo
   - Usamos LocalHost para mantener y recuperar los datos con el uso de la app.
 
-PREVIEW: 
+PREVIEW: https://calorie-traker-context-api.vercel.app/
