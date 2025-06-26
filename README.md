@@ -1,4 +1,4 @@
-### Calorie Traker
+### Calorie Traker ContextAPI
 
 Este programa Calcula las calorias consumidas y quemadas, ya sea agregando algun ejercicio realizado o alguna agregando alguna comida, apartir de esto nos da la diferencia de calorias que podemos ir llevando con el largo del tiempo. Se utilizan estas tecnologias :
   - React
